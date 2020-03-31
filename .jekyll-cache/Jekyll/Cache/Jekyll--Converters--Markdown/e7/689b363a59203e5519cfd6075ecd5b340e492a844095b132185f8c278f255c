@@ -1,0 +1,14 @@
+I"ü<p>Ignite helps you run and manage multiple Spark jobs with variable environment on Google Dataproc. For development phase, the same can be simulated on Docker. User can also configure slack to get cluster status updates.</p>
+
+<h3>Features:</h3>
+
+<p>1. Manage Dataproc Cluster</p>
+<p>2. Uploads Spark job code to GCS</p>
+<p>3. Docker based Spark Job execution for development</p>
+<p>4. Spark Job Submission</p>
+<p>5. Slack Integration</p>
+
+<p><br /></p>
+<p>By Vignesh Prajapati and Anirudha Vishvakarma</p>
+
+:ET

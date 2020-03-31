@@ -1,0 +1,6 @@
+I"ë<p>Collator is a multi-API testing suite to compare responses from different inputs on a single grid. Just pass the params list for rows and columns and get a UI for comparison across all the combinations of those params. This suite is especially useful for machine learning tasks where images or other visual data are needed to compare to take parameter decisions. Config and make templates for easy testing of your APIs.</p>
+
+<p><br /></p>
+<p>By Anirudha Vishvakarma and Kinjal Patel</p>
+
+:ET

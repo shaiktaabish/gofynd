@@ -1,0 +1,32 @@
+---
+layout: default
+title: Projects
+---
+
+
+<!-- Banner -->
+<div class="blog-innerpage-hero">
+    <div class="div-block-33-copy-copy-copy">
+      <h1 class="heading-7-copy-copy">Gofynd open projects</h1>
+      <div class="text-block-23-copy-copy-copy">Open source projects for developers and engineers.</div>
+    </div>
+  </div>
+
+
+<div class="projectcardd">
+    {% for post in site.categories.project %}
+        <div class="p_wrapper">
+            <div class="major">
+                <img class="fit image" src="http://fynd-static.s3.amazonaws.com/engineering-fynd/{{post.img}}">
+
+            </div>
+            <section class="p_container">
+                <h3>{{ post.title }}</h3>
+                <h4>{{post.description}}</h4>
+            </section>
+            <section class="p_special">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="view">VIEW PROJECT</a>
+            </section>
+        </div>
+    {% endfor %}
+</div>
