@@ -434,7 +434,7 @@
         grid-template-rows: auto auto auto auto auto auto;
     }
     .p_wrapperr {
-    width: 90%;
+    width: 90% !important;
     background-color: white;
     margin-right: 25px;
     margin-bottom: 40px;
