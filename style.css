@@ -832,7 +832,7 @@ position: static !important;
 margin-top: 40px!important;
 height: auto !important;
 margin: auto!important;
-padding-right: 25px;
+padding-right: 0px !important;
 
 display: block !important;
   }
