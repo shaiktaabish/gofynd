@@ -2458,14 +2458,13 @@
     display: -ms-flexbox;
     display: flex;
     max-width: 100%;
-    margin-right: 0px;
-    margin-left: 0px;
     -webkit-box-pack: start;
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: center;
         margin-top: 10px;
     width: 100%;
+    margin: auto;
   }
   .image-41 {
     margin-top: 0px;
