@@ -2503,9 +2503,10 @@
     display: flex;
     overflow: hidden;
     width: 100%;
-    margin-right: 16px;
-    margin-left: 16px;
+    margin-right: 0px;
+    margin-left: 0px;
     padding-right: 0px;
+    padding-top: 20px;
   }
   .link-block-14 {
     margin-top: -8px;
