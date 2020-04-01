@@ -825,9 +825,6 @@ left: 0px !important;
 }
 }
 @media only screen and (max-width: 478px) {
-  body {
-    background-color: lightblue !important;
-  }
   .two-thirds.vertical-center.padding-40{
     margin-left: 45px !important;
     right: auto !important;
