@@ -434,14 +434,16 @@
         grid-template-rows: auto auto auto auto auto auto;
     }
     .p_wrapperr {
-    width: 40% !important;
+        width: 90% !important;
     background-color: white;
-    margin-right: 25px;
+    margin-right: 0px;
     margin-bottom: 40px;
     border: 1px none transparent;
     border-radius: 3px;
     box-shadow: 0 9px 13px 0 hsla(0, 0%, 86.7%, 0.25), 0 -9px 13px 0 hsla(0, 0%, 86.7%, 0.25);
     cursor: pointer;
+    justify-content: center !important;
+    align-items: center !important;
 }
     .container.flex.narrow {
         padding-right: 0px;
