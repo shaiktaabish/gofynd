@@ -2268,7 +2268,7 @@ line-height: 33px !important;
     margin-left: 16px;
   }
   .blog-button-2 {
-    width: 100%;
+    width: 90% !important;
   }
   .hero-grid {
     grid-row-gap: 40px;
