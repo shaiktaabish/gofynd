@@ -1753,7 +1753,7 @@
     font-size: 18px;
   }
   .section-559 {
-    width: 100%;
+    width: 90%;
     max-width: 100%;
   }
   .div-block-199 {
@@ -2354,6 +2354,10 @@
     display: block;
     width: 100%;
   }
+  .section-559 {
+    width: 90%;
+    max-width: 100%;
+}
   .grid-24 {
     margin-top: 13px;
     margin-left: 0px;
