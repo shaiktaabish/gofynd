@@ -2463,7 +2463,7 @@
     -webkit-box-pack: start;
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
-    justify-content: flex-start;
+    justify-content: center;
         margin-top: 10px;
     width: 100%;
   }
@@ -2517,9 +2517,7 @@
     padding-right: 10px;
   }
   .div-block-75 {
-    margin-right: 0px;
-    margin-left: 0px;
-    padding-top: 0px;
+ margin: auto;
   }
   .link-10-copy-copy {
     padding-right: 10px;
