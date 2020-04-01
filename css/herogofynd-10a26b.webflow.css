@@ -604,6 +604,7 @@ body {
   margin-right: auto;
   margin-left: auto;
   color: #41434c !important;
+  width: 100% !important;
 }
 
 .wrapper {
