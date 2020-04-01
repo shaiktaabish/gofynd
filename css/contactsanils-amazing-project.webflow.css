@@ -2336,8 +2336,7 @@
   }
   .grid-14 {
     width: 90%;
-    margin-top: 38px;
-    margin-left: 14px;
+        grid-row-gap: 1px;
   }
   .section-27 {
     width: 100%;
@@ -2465,6 +2464,8 @@
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
+        margin-top: 10px;
+    width: 100%;
   }
   .image-41 {
     margin-top: 0px;
