@@ -877,8 +877,9 @@ line-height: 33px !important;
   padding-left: 18px;
 }
 .section{
-  padding-right: 18px;
-  padding-left: 18px;
+      padding-left: 0px !important;
+    display: flex !important;
+    width: 100% !important;
 }
 .wrapper-2{
   padding-right: 18px;
