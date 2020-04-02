@@ -759,7 +759,7 @@ code {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
-    width: 900px !important;
+    width: 1000px !important;
     max-width: 1200px;
     margin: auto;
     margin-top: 40px;
