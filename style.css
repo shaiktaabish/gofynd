@@ -764,7 +764,16 @@ code {
     margin: auto;
     margin-top: 40px;
 }	
-	
+.p_wrapper {
+    width: 40%;
+    background-color: white;
+    margin-right: 25px;
+    margin-bottom: 40px;
+    border: 1px none transparent;
+    border-radius: 3px;
+    box-shadow: 0 9px 13px 0 hsla(0, 0%, 86.7%, 0.25), 0 -9px 13px 0 hsla(0, 0%, 86.7%, 0.25);
+    cursor: pointer;
+}
 	
 	
 	
