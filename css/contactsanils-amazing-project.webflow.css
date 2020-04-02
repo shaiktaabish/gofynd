@@ -2321,13 +2321,13 @@
   .projectcardd {
     text-align: left;
     display: block;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    width: 100% !important;
-    max-width: 1200px;
+    width: 100%;
+    max-width: 100%;
     margin: auto;
-    margin-top: 40px;
+    height: auto;
     justify-content: center;
+    align-items: center;
+    display: flex;
 }
   .heading-7-copy-copy {
     margin-right: auto;
