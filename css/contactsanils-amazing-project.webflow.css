@@ -2000,6 +2000,17 @@
     margin-left: auto;
     padding-left: 0px;
   }
+  .projectcardd {
+    text-align: left;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 1000px !important;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 40px;
+    justify-content: center;
+}
   .div-block-33-copy-copy-copy {
     width: 100%;
     max-width: 550px;
