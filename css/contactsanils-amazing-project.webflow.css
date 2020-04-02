@@ -2313,11 +2313,22 @@
   }
   .div-block-33-copy-copy-copy {
     max-width: 100%;
-    margin-top: 0%;
+    margin-top: 80px;
     margin-right: auto;
     margin-left: auto;
     padding-left: 0px;
   }
+  .projectcardd {
+    text-align: left;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 100% !important;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 40px;
+    justify-content: center;
+}
   .heading-7-copy-copy {
     margin-right: auto;
     margin-left: 16px;
