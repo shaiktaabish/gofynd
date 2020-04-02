@@ -1813,6 +1813,31 @@ line-height: 33px !important;
 }
 
 @media screen and (max-width: 991px) {
+.blogcardinner {
+    position: relative;
+    display: -ms-grid;
+    display: grid;
+    width: 800px;
+    height: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    grid-auto-columns: 0fr;
+    grid-column-gap: 25px;
+    grid-row-gap: 20px;
+    -ms-grid-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+    border: 1px none #000;
+}
   .third {
     position: static;
     left: 0px;
