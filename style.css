@@ -1818,7 +1818,7 @@ line-height: 33px !important;
     display: -ms-grid;
     display: grid;
     width: 800px;
-    height: 1200px;
+    height: auto;
     margin-right: auto;
     margin-left: auto;
     -webkit-box-pack: center;
