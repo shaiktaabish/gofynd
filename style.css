@@ -763,6 +763,7 @@ code {
     max-width: 1200px;
     margin: auto;
     margin-top: 40px;
+    justify-content: center;
 }	
 .p_wrapper {
     width: 40%;
