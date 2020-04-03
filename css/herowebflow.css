@@ -1816,11 +1816,6 @@ textarea.w-select {
     clear: none;
 }
 
-.w-nav {
-    position: relative;
-    background: #dddddd;
-    z-index: 1000;
-}
 
 .w-nav:before,
 .w-nav:after {
