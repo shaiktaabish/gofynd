@@ -773,7 +773,7 @@
     flex: 1;
   }
   .w-inline-block {
-    max-width: 20% !important;
+    max-width: 90% !important;
     display: inline-block;
 }
 }
