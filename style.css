@@ -379,8 +379,8 @@ max-width: 1200px;
     cursor: pointer;
 }
 
-.p_wrapper:hover {
-    box-shadow: 0 9px 13px 0 hsla(0, 0%, 86.7%, 0.5), 0 -9px 13px 0 hsla(0, 0%, 86.7%, 0.5);
+.p_wrapperr:hover {
+    box-shadow: 0 -9px 13px 0 hsla(0, 0%, 86.7%, 0.5), 0 9px 13px 0 hsla(0, 0%, 86.7%, 0.5);
 }
 
 .m_wrapper {
