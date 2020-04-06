@@ -424,7 +424,12 @@ h6 {
     color: #9B9B9B;
 
 }
-
+.zeroo {
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 16px;
+    line-height: 24px;
+}
 .profile_pic {
     height: 40px;
     width: 40px;
