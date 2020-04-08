@@ -85,17 +85,7 @@ html.w-mod-touch * {
 .w-hidden {
   display: none;
 }
-.w-button {
-  display: inline-block;
-  padding: 9px 15px;
-  background-color: #3898EC;
-  color: white;
-  border: 0;
-  line-height: inherit;
-  text-decoration: none;
-  cursor: pointer;
-  border-radius: 0;
-}
+
 input.w-button {
   -webkit-appearance: button;
 }
@@ -222,9 +212,11 @@ h3 {
   margin-top: 20px;
 }
 h4 {
-  font-size: 18px;
-  line-height: 24px;
-  margin-top: 10px;
+  margin-top: 0px;
+  margin-right: 10px;
+  margin-left: 20px;
+  font-size: 14px;
+  font-weight: 400;
 }
 h5 {
   font-size: 14px;

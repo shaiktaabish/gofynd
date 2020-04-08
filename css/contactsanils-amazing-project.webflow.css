@@ -697,6 +697,7 @@
   background-color: #36cc9b;
   font-size: 16px;
   font-weight: 800;
+  color: #fff;
 }
 
 .blog-button-2:hover {
@@ -1099,6 +1100,7 @@
   border-radius: 3px;
   background-color: #36cc9b;
   font-weight: 700;
+  color: #fff;
 }
 
 .submit-button-2:hover {
@@ -1341,6 +1343,7 @@
   margin-left: auto;
   background-color: #fff;
   box-shadow: 0 4px 9px -9px rgba(0, 0, 0, 0.2);
+      z-index: 99999999;
 }
 
 .nav-menu-7 {
@@ -2803,23 +2806,23 @@
 }
 
 @media screen and (max-width: 767px) {
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   #w-node-d6e791792faa-3d1bb73e {
     -ms-grid-row: span 1;
     grid-row-start: span 1;

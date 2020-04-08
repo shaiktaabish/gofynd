@@ -54,7 +54,7 @@ body {
     line-height: 20px;
     color: #41434c !important;
     -webkit-font-smoothing: antialiased;
-  
+
 }
 img {
   max-width: 100%;
@@ -86,17 +86,7 @@ html.w-mod-touch * {
 .w-hidden {
   display: none;
 }
-.w-button {
-  display: inline-block;
-  padding: 9px 15px;
-  background-color: #3898EC;
-  color: white;
-  border: 0;
-  line-height: inherit;
-  text-decoration: none;
-  cursor: pointer;
-  border-radius: 0;
-}
+
 input.w-button {
   -webkit-appearance: button;
 }
@@ -218,14 +208,22 @@ h2 {
   margin-top: 20px;
 }
 h3 {
-  font-size: 24px;
-  line-height: 30px;
-  margin-top: 20px;
+  width: 100%;
+  margin-top: 0%;
+  margin-bottom: 20px;
+  padding-right: 6%;
+  padding-left: 20px;
+  color: #41424c;
+  font-size: 18px;
+  line-height: 31px;
+  font-weight: 700;
 }
 h4 {
-  font-size: 18px;
-  line-height: 24px;
-  margin-top: 10px;
+  margin-top: 0px;
+  margin-right: 10px;
+  margin-left: 20px;
+  font-size: 14px;
+  font-weight: 400;
 }
 h5 {
   font-size: 14px;
