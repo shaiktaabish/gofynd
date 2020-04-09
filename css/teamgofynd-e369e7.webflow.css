@@ -260,6 +260,12 @@
 .nav-link-11:current {
   color: #5c6bdd !important;
 }
+.nav-link-10:current {
+  color: #5c6bdd !important;
+}
+.nav-link-13:current {
+  color: #5c6bdd !important;
+}
 
 .nav-link-10 {
   padding-right: 20px;
