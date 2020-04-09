@@ -694,14 +694,14 @@
   -ms-flex-align: center;
   align-items: center;
   border-radius: 3px;
-  background-color: #36cc9b;
+  background-color: #5C6BDD;
   font-size: 16px;
   font-weight: 800;
   color: #fff;
 }
 
 .blog-button-2:hover {
-  background-color: #2eb589;
+  background-color: #4f5ecc;
 }
 
 .wrapper {
