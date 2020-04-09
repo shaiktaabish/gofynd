@@ -277,10 +277,10 @@
   text-decoration: underline;
 }
 
-.nav-link-10:focus {
+.nav-link-11:focus {
   color: #5c6bdd;
-  text-decoration: underline;
 }
+
 .nav-link-10:current {
   color: #5c6bdd;
 }
