@@ -263,6 +263,7 @@
   padding-left: 20px;
 }
 
+
 .nav-link-10:hover {
   color: #5c6bdd;
   text-decoration: underline;
@@ -271,6 +272,9 @@
 .nav-link-10:focus {
   color: #5c6bdd;
   text-decoration: underline;
+}
+.nav-link-10:current {
+  color: #5c6bdd;
 }
 
 .nav-link-13 {
