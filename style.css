@@ -21,7 +21,13 @@
     font-size: 20px;
     line-height: 30px;
 }
-
+img.fitt-imagee {
+    width: 100%;
+}
+img.fitt-imagee {
+    width: 100%;
+    margin-top: -20px !important;
+}
 
 header, footer, nav {
     display: block;
@@ -325,7 +331,7 @@ text-align: left;
       display: -ms-grid;
       display: grid;
       width: 1200px;
-      height: 1200px;
+      height: 100%;
       margin-right: auto;
       margin-left: auto;
       -webkit-box-pack: center;
@@ -448,7 +454,7 @@ h6 {
 
 
 .b_wrapper {
-    width: 49%;
+    width: 100%;
     background-color: white;
     margin-left: 25px;
     box-shadow: 0 -9px 13px 0 hsla(0, 0%, 86.7%, 0.25), 0 9px 13px 0 hsla(0, 0%, 86.7%, 0.25);
