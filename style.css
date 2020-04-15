@@ -455,6 +455,7 @@ h6 {
 
 .b_wrapper {
     width: 100%;
+    margin-top: 40px;
     background-color: white;
     margin-left: 25px;
     box-shadow: 0 -9px 13px 0 hsla(0, 0%, 86.7%, 0.25), 0 9px 13px 0 hsla(0, 0%, 86.7%, 0.25);
@@ -508,9 +509,7 @@ t_special{
     height: 50px;
 }
 
-.b_container {
-  margin-top: 20px;
-}
+
 
 .b_special {
   height: auto;
