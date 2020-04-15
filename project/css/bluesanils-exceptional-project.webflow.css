@@ -1,6 +1,6 @@
 .section-36 {
   max-width: 100%;
-  background-color: #5c6bdd;
+  background-color: #F4F8FB;
       margin-top: 40px;
 }
 
@@ -29,12 +29,12 @@
 }
 
 .div-block-26-copy:hover {
-  background-color: #5c6bdd;
+  background-color: #F4F8FB;
 }
 
 .text-block-18-copy {
   margin-top: 72px;
-  color: #fff;
+  color: #41434C;
   font-size: 36px;
   line-height: 55px;
   font-weight: 700;
@@ -61,15 +61,14 @@
   -ms-flex-item-align: center;
   align-self: center;
   border-radius: 3px;
-  background-color: #36cc9b;
+  background-color: #5C6BDD;
   color: #fff;
   font-size: 16px;
   font-weight: 700;
-  width: 200px;
 }
 
 .meetus-button:hover {
-  background-color: #2eb589;
+  background-color: #4f5ecc;
 }
 
 @media screen and (max-width: 991px) {

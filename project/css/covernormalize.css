@@ -85,7 +85,6 @@ a {
 a:active,
 a:hover {
   outline: 0;
-  opacity: 1;
 }
 /* Text-level semantics
    ========================================================================== */

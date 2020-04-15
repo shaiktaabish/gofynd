@@ -38,9 +38,7 @@
   letter-spacing: 0.24px;
 }
 
-.text-block-71 {
-  margin-bottom: 40px;
-}
+
 
 .blog-button {
   display: -webkit-box;
@@ -2867,8 +2865,6 @@
     overflow: hidden;
     width: 100%;
     max-width: 100%;
-    margin-right: 16px;
-    margin-left: 16px;
   }
   .div-block-31 {
     display: block;
@@ -2924,6 +2920,7 @@
     max-width: 100%;
     margin-right: 10px;
     margin-left: 0px;
+    display: none !important;
   }
 }
 

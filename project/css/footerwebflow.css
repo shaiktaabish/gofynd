@@ -205,14 +205,14 @@ h2 {
 }
 h3 {
   width: 100%;
-margin-top: 0%;
-margin-bottom: 0px;
-padding-right: 6%;
-padding-left: 20px;
-color: #41424c;
-font-size: 18px;
-line-height: 31px;
-font-weight: 700;
+  margin-top: 0%;
+  margin-bottom: 20px;
+  padding-right: 6%;
+  padding-left: 20px;
+  color: #41424c;
+  font-size: 18px;
+  line-height: 31px;
+  font-weight: 700;
 }
 h4 {
   margin-top: 0px;
@@ -499,11 +499,6 @@ textarea.w-select {
 }
 .w-icon-file-upload-uploading {
   height: 20px;
-}
-.w-container {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 940px;
 }
 .w-container:before,
 .w-container:after {
@@ -1550,11 +1545,6 @@ textarea.w-select {
   float: right;
   margin-left: 15px;
   clear: none;
-}
-.w-nav {
-  position: relative;
-  background: #dddddd;
-  z-index: 1000;
 }
 .w-nav:before,
 .w-nav:after {

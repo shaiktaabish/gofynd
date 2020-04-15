@@ -1,58 +1,3 @@
-
-.post-body {
-    position: relative;
-    margin: auto;
-    width: 1200px;
-}
-p {
-    margin-top: 0;
-    margin-bottom: 10px;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 26px;
-    font-weight: 400;
-    text-align: left;
-}
-.github_link {
-    background-color: white;
-    border-color: #ECECEC;
-    display: flex;
-    align-items: center;
-    width: 1200px;
-    position: relative;
-    margin: auto;
-}
-.github {
-    text-align: center;
-    line-height: 60px;
-    font-size: 20px;
-    color: #6B6484;
-    font-family: 'Montserrat';
-    font-weight: 700;
-}
-.github_button {
-    display: block;
-    text-align: center;
-    display: flex;
-    flex: 1;
-    justify-content: flex-end;
-    padding: 24px;
-}
-.view_rest {
-    display: block;
-    height: 40px;
-    margin-top: 20px;
-    padding-right: 40px;
-    padding-left: 40px;
-    border-radius: 3px;
-    background-color: #36cc9b;
-    font-weight: 700;
-    color: #fff;
-}
-.view_rest:hover {
-    background-color: #2eb589;
-}
-
 .w-layout-grid {
   display: -ms-grid;
   display: grid;
@@ -64,6 +9,7 @@ p {
   grid-row-gap: 16px;
   grid-column-gap: 16px;
 }
+
 .third {
   position: relative;
   left: 35px;
@@ -422,7 +368,7 @@ p {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 8px;
+  padding-top: 10px;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
@@ -748,13 +694,14 @@ p {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 3px;
-  background-color: #36cc9b;
+  background-color: #5C6BDD;
   font-size: 16px;
   font-weight: 800;
+  color: #fff;
 }
 
 .blog-button-2:hover {
-  background-color: #2eb589;
+  background-color: #4f5ecc;
 }
 
 .wrapper {
@@ -1151,12 +1098,13 @@ p {
   padding-right: 40px;
   padding-left: 40px;
   border-radius: 3px;
-  background-color: #36cc9b;
+  background-color: #5C6BDD;
   font-weight: 700;
+  color: #fff;
 }
 
 .submit-button-2:hover {
-  background-color: #2eb589;
+  background-color: #4f5ecc;
 }
 
 .grid-24 {
@@ -1395,6 +1343,7 @@ p {
   margin-left: auto;
   background-color: #fff;
   box-shadow: 0 4px 9px -9px rgba(0, 0, 0, 0.2);
+      z-index: 99999999;
 }
 
 .nav-menu-7 {
@@ -1419,7 +1368,7 @@ p {
 
 .brand-20 {
   width: 212px;
-  margin-top: 15px;
+  margin-top: 10px;
   margin-left: 10px;
 }
 
@@ -1786,7 +1735,7 @@ p {
   }
   .blog-innerpage-hero {
     width: 100%;
-    max-width: 900px;
+    max-width: 850px;
     margin-top: 100px;
     margin-bottom: 40px;
     padding-left: 0px;
@@ -1807,24 +1756,9 @@ p {
     font-size: 18px;
   }
   .section-559 {
-    width: 100%;
+    width: 90%;
     max-width: 100%;
   }
-   .post-body {
-    width: 100%;
-    max-width: 100%;
-       
-}
-    .github_link {
-    background-color: white;
-    border-color: #ECECEC;
-    display: flex;
-    align-items: center;
-    width: 100%;
-    max-width: 100%;
-    position: relative;
-    margin: auto;
-}
   .div-block-199 {
     padding-left: 18px;
   }
@@ -2064,11 +1998,22 @@ p {
   }
   .blog-innerpage-hero {
     width: 100%;
-    margin-top: 40px;
+    margin-top: 100px;
     margin-right: auto;
     margin-left: auto;
     padding-left: 0px;
   }
+  .projectcardd {
+    text-align: left;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 1000px !important;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 40px;
+    justify-content: center;
+}
   .div-block-33-copy-copy-copy {
     width: 100%;
     max-width: 550px;
@@ -2365,17 +2310,53 @@ p {
     padding-right: 0px;
     padding-left: 0px;
   }
+  .blogcardinner {
+    position: static;
+    display: -ms-grid;
+    display: block;
+    width: 90%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    grid-auto-columns: 0fr;
+    grid-column-gap: 25px;
+    grid-row-gap: 20px;
+    -ms-grid-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+    border: 1px none #000;
+}
   .blog-innerpage-hero {
     overflow: hidden;
     margin: 40px auto;
   }
   .div-block-33-copy-copy-copy {
     max-width: 100%;
-    margin-top: 0%;
+    margin-top: 80px;
     margin-right: auto;
     margin-left: auto;
     padding-left: 0px;
   }
+  .projectcardd {
+    text-align: left;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: auto;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
   .heading-7-copy-copy {
     margin-right: auto;
     margin-left: 16px;
@@ -2405,8 +2386,7 @@ p {
   }
   .grid-14 {
     width: 90%;
-    margin-top: 38px;
-    margin-left: 14px;
+        grid-row-gap: 1px;
   }
   .section-27 {
     width: 100%;
@@ -2424,6 +2404,13 @@ p {
     display: block;
     width: 100%;
   }
+  .section-559 {
+    width: 90%;
+    max-width: 100%;
+}
+  .div-block-199 {
+    padding-left: 0px;
+}
   .grid-24 {
     margin-top: 13px;
     margin-left: 0px;
@@ -2519,7 +2506,7 @@ p {
     background-color: #fff;
   }
   .brand-20 {
-    margin-top: 13px;
+    margin-top: 22px;
     padding-left: 0px;
   }
   .div-block-69 {
@@ -2528,12 +2515,13 @@ p {
     display: -ms-flexbox;
     display: flex;
     max-width: 100%;
-    margin-right: 0px;
-    margin-left: 0px;
     -webkit-box-pack: start;
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
-    justify-content: flex-start;
+    justify-content: center;
+        margin-top: 10px;
+    width: 100%;
+    margin: auto;
   }
   .image-41 {
     margin-top: 0px;
@@ -2571,22 +2559,22 @@ p {
     display: flex;
     overflow: hidden;
     width: 100%;
-    margin-right: 16px;
-    margin-left: 16px;
+    margin-right: 0px;
+    margin-left: 0px;
     padding-right: 0px;
+    padding-top: 20px;
   }
   .link-block-14 {
     margin-top: -8px;
     padding-top: 0px;
+    border-radius: 3px;
   }
   .link-10-copy {
     margin-left: 0px;
     padding-right: 10px;
   }
   .div-block-75 {
-    margin-right: 0px;
-    margin-left: 0px;
-    padding-top: 0px;
+ margin: auto;
   }
   .link-10-copy-copy {
     padding-right: 10px;
@@ -2818,6 +2806,23 @@ p {
 }
 
 @media screen and (max-width: 767px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   #w-node-d6e791792faa-3d1bb73e {
     -ms-grid-row: span 1;
     grid-row-start: span 1;

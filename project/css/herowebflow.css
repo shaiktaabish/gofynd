@@ -111,7 +111,6 @@ html.w-mod-touch * {
 height: 48px;
 margin: 0% auto;
 padding: 0px 37px;
-width: 180px;
     margin-top: 40px;
 }
 .x-button {
@@ -122,15 +121,12 @@ font-size: 16px;
 font-weight: 800;
 display: flex;
 height: 48px;
-margin: 0% auto;
-padding: 0px 37px;
-width: 201px;
 margin-bottom: 40px;
 color: #fff;
 display: flex;
 }
 .div-block-17-copy-2 {
-display: none ;
+display: flex ;
 }
 .blog-button-2:hover {
   background-color: #2eb589;
@@ -603,11 +599,6 @@ textarea.w-select {
     height: 20px;
 }
 
-.w-container {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 940px;
-}
 
 .w-container:before,
 .w-container:after {
@@ -1816,11 +1807,6 @@ textarea.w-select {
     clear: none;
 }
 
-.w-nav {
-    position: relative;
-    background: #dddddd;
-    z-index: 1000;
-}
 
 .w-nav:before,
 .w-nav:after {

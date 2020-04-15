@@ -770,7 +770,6 @@ body {
   color: #41434c;
   font-size: 20px;
   line-height: 28px;
-  font-weight: 300;
 }
 
 .div-block-193 {
@@ -1519,10 +1518,10 @@ body {
     font-size: 18px;
   }
   .blog-button-copy {
-    width: 100%;
+    width: 90%;
   }
   .hero-grid-2 {
-    grid-row-gap: 40px;
+    grid-row-gap: 0px;
   }
   .heading-2 {
     margin-top: 0px;
