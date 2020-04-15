@@ -646,6 +646,17 @@
   -ms-grid-rows: auto;
   grid-template-rows: auto;
 }
+.div-block-1949-copy {
+  display: block;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 24px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 2.25fr 1fr;
+  grid-template-columns: 2.25fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+      padding-left: 25px;
+}
 
 .heading-31 {
   color: #41434c;
