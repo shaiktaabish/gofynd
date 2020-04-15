@@ -4,7 +4,7 @@ title: "ANSIBLE METRICBEAT"
 name: "ansible-metricbeat"
 date: 2015-05-31 12:00:00
 categories: project
-description: Ansible role to setup and configure MetricBeat
+description: Ansible role to setup and configure MetricBeat to monitor host metrics.
 
 img: ansible-metricbeat_logo.png
 github_url: "https://github.com/gofynd/ansible-metricbeat"
