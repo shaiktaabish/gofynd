@@ -282,8 +282,8 @@ margin: auto;
   display: block;
   line-height: 48px;
   font-weight: bold;
-  padding-bottom: 20px;
-      padding-top: 40px;
+  padding-bottom: 40px;
+  padding-top: 40px;
 }
 
 
@@ -294,8 +294,7 @@ margin: auto;
       justify-content: flex-start;
       width: 1350px;
       margin: auto;
-      height: 600px;
-      max-height: 600px;
+      height: auto;
       padding-left: 75px;
 
 }
@@ -765,7 +764,7 @@ code {
 /*----------------------------hero section------------------------*/
 @media only screen and (max-width: 991px) {
   body {
-    background-color: white !important;
+
   }
 
 .projectcardd {
@@ -848,6 +847,7 @@ left: 0px !important;
     /* margin-left: 30px; */
     box-shadow: 0 -9px 13px 0 hsla(0, 0%, 86.7%, 0.25), 0 9px 13px 0 hsla(0, 0%, 86.7%, 0.25);
     margin: auto !important;
+        margin-bottom: 60px !important;
   }
   .div-block-17-copy-2 {
   display: flex !important;
@@ -858,10 +858,9 @@ left: 0px !important;
     flex-wrap: wrap;
     justify-content: flex-start;
     width: 100%;
-    max-width: 800px;
+    max-width: 990px;
     margin: auto;
-    height: 600px;
-    max-height: 600px;
+    height: auto;
 }
 .view{
   padding-bottom:20px !important;
@@ -889,6 +888,8 @@ display: block !important;
     justify-content: center;
     align-items: center;
     display: flex;
+    padding-left: 0px;
+    padding-top: 40px;
 }
 p_wrapperr {
     width: 100%;
@@ -912,7 +913,6 @@ p_wrapperr {
 
 @media only screen and (max-width: 375px) {
   body {
-    background-color: #ffff !important;
 
   }
   hero-grid-2 {
@@ -1832,8 +1832,7 @@ line-height: 33px !important;
     display: grid;
     width: 800px;
     height: auto;
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto !important;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
