@@ -897,6 +897,17 @@
   max-width: 1200px;
   margin: 104px auto 40px;
 }
+.post-body {
+    width: 1200px;
+    margin: auto;
+}
+.github_link {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
 
 .div-block-194-copy {
   display: block;
@@ -1760,8 +1771,20 @@
     max-width: 100%;
   }
   .div-block-199 {
-    padding-left: 18px;
+    padding-left: 0px;
   }
+  .post-body {
+      width: 890px;
+      margin: auto;
+  }
+
+.github_link {
+    width: 890px;
+    margin: auto;
+}
+
+
+
   .heading-31 {
     width: 100%;
     max-width: 100%;
@@ -2405,7 +2428,7 @@
     width: 100%;
   }
   .section-559 {
-    width: 90%;
+    width: 100%;
     max-width: 100%;
 }
   .div-block-199 {
@@ -3291,4 +3314,43 @@
     -ms-grid-row: 1;
     -ms-grid-column: 1;
   }
+}
+
+@media screen and (max-width: 479px) {
+  body{
+    margin-left:18px;
+    margin-right: 18px;
+  }
+  .post-body {
+      width: 100%;
+      margin: auto;
+
+  }
+  .github_link {
+    display: block;
+      width: 100%;
+      margin: auto;
+
+  }
+  button, html input[type="button"], input[type="reset"] {
+      border: 0;
+      cursor: pointer;
+      -webkit-appearance: button;
+      border: 0;
+      cursor: pointer;
+      -webkit-appearance: button;
+      height: 48px;
+      align-items: center;
+      border-radius: 3px;
+      background-color: #5C6BDD;
+      font-size: 16px;
+      font-weight: 800;
+      color: #fff;
+      padding-left: 40px;
+      padding-right: 40px;
+      width: 100%
+      
+    }
+
+
 }
