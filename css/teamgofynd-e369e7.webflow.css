@@ -1145,7 +1145,7 @@
     background-color: #fff;
   }
   .brand-20 {
-    margin-top: 13px;
+    margin-top: 23px;
     padding-left: 0px;
   }
   .grid-24 {
@@ -1256,9 +1256,7 @@
     display: flex;
     overflow: hidden;
     width: 100%;
-    margin-right: 16px;
-    margin-left: 16px;
-    padding-right: 0px;
+padding-left: 18px;
   }
   .link-block-14 {
     margin-top: -8px;

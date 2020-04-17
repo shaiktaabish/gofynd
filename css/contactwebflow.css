@@ -65,11 +65,7 @@ html.w-mod-touch * {
 .w-block {
   display: block;
 }
-.w-inline-block {
-  max-width: 100%;
-  display: inline-block;
-      opacity: .7;
-}
+
 .w-clearfix:before,
 .w-clearfix:after {
   content: " ";

@@ -68,10 +68,7 @@ html.w-mod-touch * {
 .w-block {
   display: block;
 }
-.w-inline-block {
-  max-width: 100%;
-  display: inline-block;
-}
+
 .w-clearfix:before,
 .w-clearfix:after {
   content: " ";
@@ -1747,6 +1744,10 @@ textarea.w-select {
   display: block;
 }
 @media screen and (max-width: 479px) {
+body{
+  padding-left: 16px;
+  padding-right: 16px;
+}
   .w-tab-link {
     display: block;
   }

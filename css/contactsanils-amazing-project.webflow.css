@@ -2316,8 +2316,7 @@
     display: block;
     width: 90%;
     height: auto;
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
@@ -2409,7 +2408,10 @@
     max-width: 100%;
 }
   .div-block-199 {
-    padding-left: 0px;
+    padding-left: 0px !important;
+}
+.div-block-1999 {
+    padding-left: 18px !important;
 }
   .grid-24 {
     margin-top: 13px;
