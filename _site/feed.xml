@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 Mar 2020 16:56:12 +0530</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2020 16:56:12 +0530</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2020 11:19:34 +0530</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2020 11:19:34 +0530</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -24,7 +24,11 @@
     
       <item>
         <title>Fynd Now</title>
-        <description>&lt;p&gt;Flask being micro web framework provides minimal set of attributes to make web application. To build large application using flask one need to design application in such a way that there is no cyclic imports. One also need to integrate ORM for database interaction, celery for async tasks, celery beat for scheduling jobs, cli commands for management tasks into application.
+        <description>&lt;head&gt;
+
+&lt;/head&gt;
+
+&lt;p&gt;Flask being micro web framework provides minimal set of attributes to make web application. To build large application using flask one need to design application in such a way that there is no cyclic imports. One also need to integrate ORM for database interaction, celery for async tasks, celery beat for scheduling jobs, cli commands for management tasks into application.
 Flask-Full is a boilerplate framework on top of flask for developing large api backend applications using flask. It has in built support for shell commands, celery, websocket, eventlet, mongoengine orm and rst docs.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -71,7 +75,6 @@ Flask-Full is a boilerplate framework on top of flask for developing large api b
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;By Vignesh Prajapati and Anirudha Vishvakarma&lt;/p&gt;
-
 </description>
         <pubDate>Sat, 24 Feb 2018 17:30:00 +0530</pubDate>
         <link>http://localhost:4000//project/ignite</link>
@@ -88,7 +91,6 @@ Flask-Full is a boilerplate framework on top of flask for developing large api b
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;By Kingshuk and Ekwinder Saini&lt;/p&gt;
-
 </description>
         <pubDate>Fri, 23 Feb 2018 17:30:00 +0530</pubDate>
         <link>http://localhost:4000//project/simpl-python</link>
