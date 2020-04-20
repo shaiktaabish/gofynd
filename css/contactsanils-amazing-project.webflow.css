@@ -2314,7 +2314,7 @@
     position: static;
     display: -ms-grid;
     display: block;
-    width: 90%;
+    width: 100%;
     height: auto;
     margin: auto;
     -webkit-box-pack: center;
