@@ -949,6 +949,25 @@
   line-height: 21px;
   font-weight: 500;
 }
+.field-label-4 {
+  max-width: 300px;
+  margin-bottom: 0px;
+  font-family: Poppins, sans-serif;
+  color: #9b9b9b;
+  font-size: 12px;
+  line-height: 21px;
+  font-weight: 500;
+}
+.field-label-5 {
+  max-width: 300px;
+  margin-bottom: 0px;
+  font-family: Poppins, sans-serif;
+  color: #9b9b9b;
+  font-size: 12px;
+  line-height: 21px;
+  font-weight: 500;
+}
+
 
 .grid-14 {
   max-width: 1200px;
@@ -974,7 +993,13 @@
 
 .success-message-3 {
   border-radius: 3px;
-  background-color: #42c850;
+    background-color: #42c850;
+    height: 48px;
+    padding-left: 16px;
+    padding-right: 16px;
+    max-width: 362px;
+    padding-top: 15px;
+    margin-top: 10px;
 }
 
 .text-block-30 {
@@ -1001,14 +1026,15 @@
 }
 
 .text-field-5 {
-  height: 40px;
-  max-height: 40px;
-  max-width: 440px;
-  margin-bottom: 15px;
-  border-style: solid;
-  border-width: 1px;
-  border-color: #d7d7d7;
-  border-radius: 3px;
+  display: inline-block;
+      height: 120px !important;
+      max-width: 440px;
+      margin-bottom: 15px;
+      border-style: solid;
+      border-width: 1px;
+      border-color: #d7d7d7;
+      border-radius: 3px;
+      text-transform: capitalize;
 }
 
 .section-27 {
