@@ -208,7 +208,7 @@ h2 {
 h3 {
   width: 100%;
   margin-top: 0%;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   padding-right: 6%;
   padding-left: 20px;
   color: #41424c;
@@ -222,6 +222,7 @@ h4 {
   margin-left: 20px;
   font-size: 14px;
   font-weight: 400;
+  padding-bottom: 5px;
 }
 h5 {
   font-size: 14px;
