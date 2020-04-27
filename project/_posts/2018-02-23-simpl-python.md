@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SIMPL PYTHON"
+title:  "Simpl Python"
 date:   2018-02-23 12:00:00
 categories: project
 description: Simpl-Python is a python client for Simpl API integration.
