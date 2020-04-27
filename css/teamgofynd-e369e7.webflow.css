@@ -254,7 +254,7 @@
 }
 
 .nav-link-11:hover {
-  color: #5c6bdd;
+  color: #5c6bdd !important;
   text-decoration: underline;
 }
 .nav-link-11:current {
