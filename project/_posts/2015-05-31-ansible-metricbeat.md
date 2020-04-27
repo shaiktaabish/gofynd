@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ansible-metricbeat"
+title: "Ansible-Metricbeat"
 name: "ansible-metricbeat"
 date: 2015-05-31 12:00:00
 categories: project
